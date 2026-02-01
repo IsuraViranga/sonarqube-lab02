@@ -41,5 +41,5 @@ jobs:
         run: |
           mvn sonar:sonar \
             -Dsonar.projectKey=perera214149h_lab02 \
-            -Dsonar.organization=Perera214149H \
+            -Dsonar.organization=perera214149H \
             -Dsonar.host.url=https://sonarcloud.io
